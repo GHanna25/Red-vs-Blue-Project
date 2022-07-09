@@ -23,4 +23,7 @@ Now that we know port 80 is vulnerable we open our Browser and navigate to the I
 
 ![image](https://user-images.githubusercontent.com/97201701/178120675-e116f086-bdee-4c64-959e-32c63bf7376d.png)
 
+Now once we are in the folder it gave us the instructions to connect to the server.
 
+
+![image](https://user-images.githubusercontent.com/97201701/178120723-303d7295-d6cd-4aa4-9d14-fe2bde3dbab4.png)
