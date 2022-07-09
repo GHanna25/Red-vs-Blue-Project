@@ -27,3 +27,7 @@ Now once we are in the folder it gave us the instructions to connect to the serv
 
 
 ![image](https://user-images.githubusercontent.com/97201701/178120723-303d7295-d6cd-4aa4-9d14-fe2bde3dbab4.png)
+
+Then when you are in the webdav connection the passwd.dav file contains the password to ryans account
+
+![image](https://user-images.githubusercontent.com/97201701/178120752-ff16960b-ea77-4ab8-9bbd-24d87d5d74f3.png)
