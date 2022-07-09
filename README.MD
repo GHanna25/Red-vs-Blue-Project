@@ -18,3 +18,9 @@ Eventually the scan returned which ports were vulnerable
 
 ![image](https://user-images.githubusercontent.com/97201701/178120628-cb37157a-623a-4eeb-8c19-0805cd6f13c8.png)
 
+
+Now that we know port 80 is vulnerable we open our Browser and navigate to the IP 192.168.1.105
+
+![image](https://user-images.githubusercontent.com/97201701/178120675-e116f086-bdee-4c64-959e-32c63bf7376d.png)
+
+
