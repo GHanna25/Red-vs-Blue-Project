@@ -36,3 +36,10 @@ Then when you are in the webdav connection the passwd.dav file contains the pass
 The hashed md5 password was instantly cracked using Crackstation, revealing the password linux4u
 
 ![image](https://user-images.githubusercontent.com/97201701/178120792-bf9aa2d9-a595-4a9a-b029-fa77534687f8.png)
+
+We could then login to webdav using Ryan&#39;s credentials.
+
+![alt-text](https://github.com/SamGeron/Red-Team-vs-Blue-Team/blob/main/images/Picture24.png)
+
+![alt-text](https://github.com/SamGeron/Red-Team-vs-Blue-Team/blob/main/images/Picture25.png)
+
