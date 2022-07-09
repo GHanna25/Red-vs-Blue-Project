@@ -7,3 +7,4 @@
 ### **Discover target IP:**
 
 To discover the target ip:
+![nmap scan](https://user-images.githubusercontent.com/96896057/176231038-50e01034-7818-4772-9f70-7a10cb988e0e.png)
