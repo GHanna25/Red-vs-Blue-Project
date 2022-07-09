@@ -43,3 +43,7 @@ We could then login to webdav using Ryan&#39;s credentials.
 
 ![alt-text](https://github.com/SamGeron/Red-Team-vs-Blue-Team/blob/main/images/Picture25.png)
 
+
+
+
+### Day 2
