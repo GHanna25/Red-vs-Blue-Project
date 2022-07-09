@@ -31,3 +31,8 @@ Now once we are in the folder it gave us the instructions to connect to the serv
 Then when you are in the webdav connection the passwd.dav file contains the password to ryans account
 
 ![image](https://user-images.githubusercontent.com/97201701/178120752-ff16960b-ea77-4ab8-9bbd-24d87d5d74f3.png)
+
+
+The hashed md5 password was instantly cracked using Crackstation, revealing the password linux4u
+
+![image](https://user-images.githubusercontent.com/97201701/178120792-bf9aa2d9-a595-4a9a-b029-fa77534687f8.png)
