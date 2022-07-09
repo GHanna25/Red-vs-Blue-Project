@@ -46,4 +46,4 @@ We could then login to webdav using Ryan&#39;s credentials.
 
 
 
-### Day 2
+### Day 2 Blue Team
