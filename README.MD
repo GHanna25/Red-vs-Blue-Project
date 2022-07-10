@@ -48,7 +48,9 @@ We could then login to webdav using Ryan&#39;s credentials.
 
 ### Day 2 Blue Team
 
+**Splunk Alert**
 
+This alert created with splunk alerts you anytime a IP address reciever more than 10, 404 status codes.
 
 ![project2SSalert](https://user-images.githubusercontent.com/97201701/178120860-1251f5a0-2fc3-4130-a052-08c797cbde09.png)
 
