@@ -64,7 +64,7 @@ You can set an alarm to detect the number of requests that come through per seco
 The alarm would be triggered whenever a specific IP address sends more than 10 requests per second.
 You can whitelist specific IPs to harden systems and mitigate port scans.
 
-**Preventing Brute Force Attacks: **
+**Preventing Brute Force Attacks:**
 
 You can set an alarm that detects the number of login attempts per second.
 The alarm would be triggered whenever there are multiple 401 error codes that occur after five login attempts within a second.
