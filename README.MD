@@ -56,8 +56,31 @@ We could then login to webdav using Ryan&#39;s credentials.
 
 ### Day 3 Mitigation
 
-#**Blocking future port scans :**
+**Blocking future port scans :**
 
 You can set an alarm to detect the number of requests that come through per second.
 The alarm would be triggered whenever a specific IP address sends more than 10 requests per second.
 You can whitelist specific IPs to harden systems and mitigate port scans.
+
+**Preventing Brute Force Attacks: **
+
+You can set an alarm that detects the number of login attempts per second.
+The alarm would be triggered whenever there are multiple 401 error codes that occur after five login attempts within a second.
+
+You can lock identified users and IP addresses for a specific amount of time to block brute force attacks.
+
+
+**Detecting the WebDAV connection:**
+
+Monitor all access to webdav and trigger and alarm whenever a file in webdav is opened or read.
+The alarm will trigger any time the webdav is accessed.
+
+set a configuration to Whitelist specific machines that have granted access.
+
+**Identifying Reverse Shell Uploads**
+
+Set an alarm to detect whenever a .php file is uploaded or attempted to upload.
+The alarm triggers anytime this occurs.
+
+
+
