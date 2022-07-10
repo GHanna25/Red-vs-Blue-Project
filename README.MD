@@ -55,3 +55,9 @@ We could then login to webdav using Ryan&#39;s credentials.
 
 
 ### Day 3 Mitigation
+
+#Blocking future port scans :
+
+You can set an alarm to detect the number of requests that come through per second.
+The alarm would be triggered whenever a specific IP address sends more than 10 requests per second.
+You can whitelist specific IPs to harden systems and mitigate port scans.
